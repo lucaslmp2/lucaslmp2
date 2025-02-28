@@ -5,6 +5,57 @@
 ### Estudante da área de sistemas buscando se qualificar como desenvolvedor fullstack.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+# Lucas Moreira Pachêco
+
+Olá! 👋  
+Sou estudante de **Sistemas de Informação** na **UNEX** e apaixonado por tecnologia.  
+Sempre em busca de novos desafios, tenho experiência com desenvolvimento de software e segurança da informação.
+
+## 💻 Tecnologias
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- MySQL  
+- Kali Linux (Segurança da Informação)  
+- Redes e Protocolos  
+
+## 🎯 Experiências Acadêmicas em Destaque
+
+### Projeto VIVA - Segurança da Mulher 💪 (Agile) | 2024
+- Participação no desenvolvimento de aplicativo para proteção da mulher.
+- Testes de segurança e análise de vulnerabilidades com Kali Linux.
+
+### Administração de Sistemas Heterogêneos
+- Testes de segurança e análise de vulnerabilidades com Kali Linux.
+
+### Projeto Empreendedor - Cortina Inteligente
+- Desenvolvimento de sistema com **Arduino** para automação residencial.
+
+### Projeto Guru do Brasileirão
+- Desenvolvimento web como parte da disciplina de **Técnicas de Desenvolvimento Web**.
+
+## 📚 Formação
+- **Sistemas de Informação** - UNEX (Cursando)  
+- Bootcamps de Desenvolvimento Web e Segurança da Informação - Digital Innovation One  
+
+## 📌 Certificações (Destaque)
+- Princípios de Desenvolvimento de Aplicações (DIO)  
+- Versionamento com Git e GitHub (DIO)  
+- Fundamentos do Desenvolvimento Web (DIO)  
+- Introdução ao Mikrotik  
+- Introdução de Monitoramento com ZABBIX Server  
+- Desenvolvimento de um Aplicativo de Gestão Financeira Pessoal (Metodologia Scrum)  
+
+## 🚀 Objetivo
+Estágio na área de **Desenvolvimento de Software** ou **Segurança da Informação** para aplicar meus conhecimentos e crescer profissionalmente.
+
+## 🎯 Curiosidades
+- 🔥 Fã de tecnologia desde criança  
+- 🎶 Curto música lo-fi para programar  
+- ➕ Sempre aprendendo algo novo  
+
+---
+Se precisar exportar para **PDF** ou ajustar algo, é só pedir!
+
 
 
 ## Minhas Redes
@@ -34,3 +85,4 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
