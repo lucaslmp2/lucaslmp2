@@ -2,7 +2,7 @@
 
 #  Hello world!!!
 
-### Estudante da área de sistemas buscando se qualificar como desenvolvedor fullstack.
+### Estudante da área de sistemas buscando se qualificar como desenvolvedor FrontEnd.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact&theme=dracula)
 # Lucas Moreira Pachêco
