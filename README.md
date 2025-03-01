@@ -86,6 +86,8 @@ Se precisar exportar para **PDF** ou ajustar algo, é só pedir!
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+
+
 </div>
 &nbsp;
 <a href="#">
