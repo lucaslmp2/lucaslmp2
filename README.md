@@ -14,9 +14,10 @@ Sempre em busca de novos desafios, tenho experiência com desenvolvimento de sof
 ## 💻 Tecnologias
 - HTML, CSS, JavaScript  
 - Git & GitHub  
-- MySQL  
-- Kali Linux (Segurança da Informação)  
-- Redes e Protocolos  
+- MySQL   
+- Redes e Protocolos
+- Python
+- Java
 
 ## 🎯 Experiências Acadêmicas em Destaque
 
