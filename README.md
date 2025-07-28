@@ -4,8 +4,6 @@
 
 ### Estudante da área de sistemas buscando se qualificar como desenvolvedor FrontEnd.
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact&theme=dracula)
-
 Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelência** e apaixonado por tecnologia.  
 Sempre em busca de novos desafios, tenho experiência com desenvolvimento de software.
 
@@ -88,28 +86,13 @@ Estágio na área de **Desenvolvimento de Software** para aplicar meus conhecime
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-<h1 align="center">Hey 👋What's Up?</h1>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact&theme=dracula)
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaslmp2/lucaslmp2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslmp2/lucaslmp2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucaslmp2/lucaslmp2/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
