@@ -46,7 +46,7 @@ Sempre em busca de novos desafios, tenho experiência com desenvolvimento de sof
 - Desenvolvimento de um Aplicativo de Gestão Financeira Pessoal (Metodologia Scrum)  
 
 ## 🚀 Objetivo
-Estágio na área de **Desenvolvimento de Software** ou **Segurança da Informação** para aplicar meus conhecimentos e crescer profissionalmente.
+Estágio na área de **Desenvolvimento de Software** para aplicar meus conhecimentos e crescer profissionalmente.
 
 ## 🎯 Curiosidades
 - 🔥 Fã de tecnologia desde criança  
