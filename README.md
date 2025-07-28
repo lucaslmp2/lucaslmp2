@@ -5,10 +5,9 @@
 ### Estudante da área de sistemas buscando se qualificar como desenvolvedor FrontEnd.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact&theme=dracula)
-# Lucas Moreira Pachêco
 
 Olá! 👋  
-Sou estudante de **Sistemas de Informação** na **UNEX** e apaixonado por tecnologia.  
+Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelência** e apaixonado por tecnologia.  
 Sempre em busca de novos desafios, tenho experiência com desenvolvimento de software e segurança da informação.
 
 ## 💻 Tecnologias
