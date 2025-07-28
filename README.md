@@ -1,5 +1,4 @@
 ![Header](github-header-image.png)
-# Lucas Moreira Pachêco
 
 #  Hello world!!!
 
