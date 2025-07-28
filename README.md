@@ -8,7 +8,7 @@
 
 Olá! 👋  
 Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelência** e apaixonado por tecnologia.  
-Sempre em busca de novos desafios, tenho experiência com desenvolvimento de software e.
+Sempre em busca de novos desafios, tenho experiência com desenvolvimento de software.
 
 ## 💻 Tecnologias
 - HTML, CSS, JavaScript  
