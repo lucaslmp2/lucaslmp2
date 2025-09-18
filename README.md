@@ -22,6 +22,7 @@ Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelênc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -48,9 +49,9 @@ Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelênc
 ## 🏆 Projetos em Destaque
 
 ### 🛡️ **Projeto VIVA - Segurança da Mulher** | 2024
-- Desenvolvimento de aplicativo móvel para proteção feminina usando metodologia **Agile**
-- Implementação de testes de segurança e análise de vulnerabilidades
-- Tecnologias: Kali Linux para testes de penetração
+- Participação no desenvolvimento de aplicativo móvel para proteção feminina
+- Aplicação de metodologia **Agile** para gestão do projeto
+- Colaboração em equipe multidisciplinar focada em segurança
 
 ### 🏠 **Cortina Inteligente - IoT**
 - Sistema de automação residencial com **Arduino**
@@ -102,10 +103,10 @@ Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelênc
 ```javascript
 const lucas = {
     pronouns: "ele/dele",
-    code: ["JavaScript", "Python", "Java", "C", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "cybersecurity", "networking"],
     technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript"],
+        frontEnd: ["HTML", "CSS", "JavaScript", "TypeScript"],
         backEnd: ["Python", "Java"],
         databases: ["MySQL", "SQLite"],
         tools: ["Git", "Figma", "VS Code", "Postman"],
