@@ -94,7 +94,7 @@ Sou estudante de **Sistemas de Informação** na **UNEX - Faculdade de Excelênc
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
 
 ---
 
