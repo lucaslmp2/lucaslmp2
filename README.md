@@ -101,12 +101,18 @@ No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo
 ---
 
 ## 🚀 Stack Tecnológica
-
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact)
-<div align="right">
+
+</div>
+
+<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
+
 </div>
+
 
 ### 💻 Linguagens & Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
