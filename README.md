@@ -99,8 +99,7 @@ No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo
 </div>
 
 ---
-
-## 🚀 Stack Tecnológica
+## 📈 GitHub Stats
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact)
@@ -112,7 +111,9 @@ No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
 
 </div>
+<div align="center">
 
+## 🚀 Stack Tecnológica
 
 ### 💻 Linguagens & Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -140,11 +141,7 @@ No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## 📈 GitHub Stats
-
-
-
----
+</div>
 
 <div align="center">
 
