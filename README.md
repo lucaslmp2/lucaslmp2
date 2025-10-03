@@ -96,7 +96,13 @@ Experiência prática com **MySQL** e **SQLite**, incluindo modelagem de dados, 
 ### Ferramentas e Ambiente
 
 Trabalho diariamente com **Git** para versionamento de código, **VS Code** como IDE principal, **Figma** para design e prototipação, e **Postman** para testes de APIs. Estou familiarizado com ambientes **Linux** (Ubuntu, Kali) e **Windows**, o que me permite desenvolver em diferentes contextos.
+---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
+
+---
 ---
 
 <div align="center">
