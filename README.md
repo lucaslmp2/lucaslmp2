@@ -102,13 +102,7 @@ No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo
 ## 📈 GitHub Stats
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact)
-
-</div>
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
 
 </div>
 <div align="center">
