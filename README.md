@@ -77,15 +77,35 @@ Possuo certificações que validam meus conhecimentos em áreas fundamentais do 
 
 <div align="center">
 
+## Interesses e Valores
+
+</div>
+
+Sou um entusiasta de tecnologia desde criança, sempre curioso para entender como as coisas funcionam e como podem ser melhoradas. Esta curiosidade me levou ao desenvolvimento de software, onde encontrei uma forma de materializar ideias e criar soluções práticas.
+
+**Segurança da informação** é um tema que me fascina particularmente. Acredito que desenvolver software seguro não é opcional, mas uma responsabilidade fundamental de todo desenvolvedor. Por isso, invisto tempo estudando práticas seguras de desenvolvimento e mantendo-me atualizado sobre vulnerabilidades e proteções.
+
+Tenho um apreço especial por **redes e protocolos de comunicação**, conhecimento que complementa minha formação em desenvolvimento e me permite ter uma visão mais completa da arquitetura de sistemas.
+
+No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo calmo e repetitivo me ajuda a entrar no estado de flow e manter a concentração em sessões longas de desenvolvimento.
+
+---
+
+
+<div align="center">
+
 ## Competências Técnicas
 
 </div>
+
 ---
 
 ## 🚀 Stack Tecnológica
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact)
+<div align="right">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
+</div>
 ### 💻 Linguagens & Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -115,22 +135,6 @@ Possuo certificações que validam meus conhecimentos em áreas fundamentais do 
 ## 📈 GitHub Stats
 
 
-
----
-
-<div align="center">
-
-## Interesses e Valores
-
-</div>
-
-Sou um entusiasta de tecnologia desde criança, sempre curioso para entender como as coisas funcionam e como podem ser melhoradas. Esta curiosidade me levou ao desenvolvimento de software, onde encontrei uma forma de materializar ideias e criar soluções práticas.
-
-**Segurança da informação** é um tema que me fascina particularmente. Acredito que desenvolver software seguro não é opcional, mas uma responsabilidade fundamental de todo desenvolvedor. Por isso, invisto tempo estudando práticas seguras de desenvolvimento e mantendo-me atualizado sobre vulnerabilidades e proteções.
-
-Tenho um apreço especial por **redes e protocolos de comunicação**, conhecimento que complementa minha formação em desenvolvimento e me permite ter uma visão mais completa da arquitetura de sistemas.
-
-No dia a dia, programo melhor ao som de **música lo-fi** - descobri que o ritmo calmo e repetitivo me ajuda a entrar no estado de flow e manter a concentração em sessões longas de desenvolvimento.
 
 ---
 
