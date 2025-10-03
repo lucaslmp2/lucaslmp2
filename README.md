@@ -80,27 +80,11 @@ Possuo certificações que validam meus conhecimentos em áreas fundamentais do 
 ## Competências Técnicas
 
 </div>
-
-### Linguagens de Programação
-
-**JavaScript e TypeScript** são minhas principais ferramentas para desenvolvimento web, onde me sinto mais confortável e produtivo. Também possuo experiência sólida com **Python** para automações e scripts, **Java** para desenvolvimento de aplicações robustas, e conhecimentos em **C** que me proporcionaram uma compreensão profunda sobre como a programação funciona em baixo nível.
-
-### Desenvolvimento Web
-
-Domino as tecnologias fundamentais da web: **HTML5, CSS3 e JavaScript**, além de estar constantemente explorando frameworks e bibliotecas modernas. Meu foco é criar interfaces que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar, sempre pensando na experiência do usuário final.
-
-### Bancos de Dados
-
-Experiência prática com **MySQL** e **SQLite**, incluindo modelagem de dados, queries otimizadas e compreensão de boas práticas em persistência de dados. Entendo a importância de uma estrutura de dados bem planejada para o sucesso de qualquer aplicação.
-
-### Ferramentas e Ambiente
-
-Trabalho diariamente com **Git** para versionamento de código, **VS Code** como IDE principal, **Figma** para design e prototipação, e **Postman** para testes de APIs. Estou familiarizado com ambientes **Linux** (Ubuntu, Kali) e **Windows**, o que me permite desenvolver em diferentes contextos.
 ---
 
 ## 🚀 Stack Tecnológica
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmp2&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
 
 ### 💻 Linguagens & Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -130,7 +114,7 @@ Trabalho diariamente com **Git** para versionamento de código, **VS Code** como
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslmp2&show_icons=true&theme=transparent)
+
 
 ---
 
